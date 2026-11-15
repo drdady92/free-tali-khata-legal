@@ -10,14 +10,14 @@
 
 <br/>
 
-[![ডাউনলোড APK](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A6%B2%E0%A7%8B%E0%A6%A1%20APK-E11D2A?style=for-the-badge)](https://github.com/drdady92/free-tali-khata-legal/releases/latest/download/free-tali-khata.apk)
+[![Download APK](https://img.shields.io/badge/Download%20APK-E11D2A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/drdady92/free-tali-khata-legal/releases/latest/download/free-tali-khata.apk)
 
-![version](https://img.shields.io/github/v/release/drdady92/free-tali-khata-legal?label=%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%B6%E0%A7%87%E0%A6%B7%20%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%A8&color=E11D2A)
-![downloads](https://img.shields.io/github/downloads/drdady92/free-tali-khata-legal/total?label=%E0%A6%A1%E0%A6%BE%E0%A6%89%E0%A6%A8%E0%A6%B2%E0%A7%8B%E0%A6%A1&color=2563EB)
+![version](https://img.shields.io/github/v/release/drdady92/free-tali-khata-legal?label=latest%20version&color=E11D2A)
+![downloads](https://img.shields.io/github/downloads/drdady92/free-tali-khata-legal/total?label=downloads&color=2563EB)
 ![platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 ![built with](https://img.shields.io/badge/built%20with-Flutter-02569B?logo=flutter&logoColor=white)
-![language](https://img.shields.io/badge/%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%7C%20English-2563EB)
-![ads](https://img.shields.io/badge/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%AA%E0%A6%A8-%E0%A6%A8%E0%A7%87%E0%A6%87-success)
+![language](https://img.shields.io/badge/language-Bangla%20%7C%20English-2563EB)
+![ads](https://img.shields.io/badge/ads-none-success)
 
 </div>
 
@@ -29,9 +29,24 @@
 
 ---
 
+## 📸 অ্যাপের ছবি
+
+<p align="center">
+  <img src="screenshots/01-home.png" width="200" alt="হোম"/>
+  <img src="screenshots/04-add-party.png" width="200" alt="নতুন কাস্টমার"/>
+  <img src="screenshots/05-cashbox.png" width="200" alt="ক্যাশবক্স"/>
+</p>
+<p align="center">
+  <img src="screenshots/03-menu.png" width="200" alt="মেনু"/>
+  <img src="screenshots/02-cloud-backup.png" width="200" alt="ক্লাউড ব্যাকআপ"/>
+  <img src="screenshots/06-import-talikhata.png" width="200" alt="TaliKhata ইমপোর্ট"/>
+</p>
+
+---
+
 ## 📥 ইনস্টল করার নিয়ম
 
-1. উপরের লাল **ডাউনলোড APK** বাটনে চাপ দিন। ডাউনলোড নিজে থেকেই শুরু হবে।
+1. উপরের লাল **Download APK** বাটনে চাপ দিন। ডাউনলোড নিজে থেকেই শুরু হবে।
 2. ডাউনলোড শেষে ফাইলটি খুলুন (ব্রাউজারের নোটিফিকেশন বা ফোনের **Downloads** ফোল্ডার থেকে)।
 3. ফোন "এই উৎস থেকে ইনস্টলের অনুমতি" চাইলে **অনুমতি দিন**, তারপর **ইনস্টল** চাপুন।
 4. Play Protect সতর্কবার্তা দেখালে **More details → Install anyway** চাপুন। অ্যাপটি Play Store-এর বাইরে বিতরণ হয় বলে এই বার্তা আসে।
